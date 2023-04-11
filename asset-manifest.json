@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/colorful-world/static/css/main.073c9b0a.css",
-    "main.js": "/colorful-world/static/js/main.b83cbafe.js",
+    "main.js": "/colorful-world/static/js/main.a42ce4b7.js",
     "static/js/787.8fb4aeac.chunk.js": "/colorful-world/static/js/787.8fb4aeac.chunk.js",
     "static/media/logo.svg": "/colorful-world/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/colorful-world/index.html",
     "main.073c9b0a.css.map": "/colorful-world/static/css/main.073c9b0a.css.map",
-    "main.b83cbafe.js.map": "/colorful-world/static/js/main.b83cbafe.js.map",
+    "main.a42ce4b7.js.map": "/colorful-world/static/js/main.a42ce4b7.js.map",
     "787.8fb4aeac.chunk.js.map": "/colorful-world/static/js/787.8fb4aeac.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.b83cbafe.js"
+    "static/js/main.a42ce4b7.js"
   ]
 }
