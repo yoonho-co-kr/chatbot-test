@@ -1,7 +1,7 @@
-const apikey = process.env.CHATGPT_API_KEY;
+
 const chatGPT = async (messages, parameters = {}) => {
     console.log("receive")
-
+    const apikey = process.env.CHATGPT_API_KEY;
     if (messages[0].constructor === String) return await chatGPT([['user', messages[0]]]);
     messages = messages.map(line => ({ role: line[0], content: line[1].trim() }))
     const response = await fetch('https://api.openai.com/v1/chat/completions', {
